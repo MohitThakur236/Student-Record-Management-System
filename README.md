@@ -43,10 +43,9 @@ Data Storage:-
 
 Student records are stored in data.txt using the | delimiter.
 
-Example:
+Example:-
 
 Rahul|101|CSE|3|8.5
-Aman|102|ECE|4|8.2
 
 The fields are stored in the following order:
 
